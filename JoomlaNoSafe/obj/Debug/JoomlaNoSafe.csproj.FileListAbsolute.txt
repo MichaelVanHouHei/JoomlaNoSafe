@@ -1,0 +1,13 @@
+G:\C#\JoomlaNoSafe\JoomlaNoSafe\obj\Debug\JoomlaNoSafe.Properties.Resources.resources
+G:\C#\JoomlaNoSafe\JoomlaNoSafe\obj\Debug\JoomlaNoSafe.csproj.GenerateResource.Cache
+G:\C#\JoomlaNoSafe\JoomlaNoSafe\bin\Debug\JoomlaNoSafe.exe
+G:\C#\JoomlaNoSafe\JoomlaNoSafe\bin\Debug\JoomlaNoSafe.pdb
+G:\C#\JoomlaNoSafe\JoomlaNoSafe\obj\Debug\JoomlaNoSafe.exe
+G:\C#\JoomlaNoSafe\JoomlaNoSafe\obj\Debug\JoomlaNoSafe.pdb
+G:\C#\JoomlaNoSafe\JoomlaNoSafe\bin\Debug\MetroFramework.dll
+G:\C#\JoomlaNoSafe\JoomlaNoSafe\bin\Debug\MetroFramework.Design.dll
+G:\C#\JoomlaNoSafe\JoomlaNoSafe\bin\Debug\MetroFramework.Fonts.dll
+G:\C#\JoomlaNoSafe\JoomlaNoSafe\obj\Debug\JoomlaNoSafe.MainFrm.resources
+G:\C#\JoomlaNoSafe\JoomlaNoSafe\bin\Debug\MetroFramework.Design.pdb
+G:\C#\JoomlaNoSafe\JoomlaNoSafe\bin\Debug\MetroFramework.Fonts.pdb
+G:\C#\JoomlaNoSafe\JoomlaNoSafe\obj\Debug\JoomlaNoSafe.csprojResolveAssemblyReference.cache
